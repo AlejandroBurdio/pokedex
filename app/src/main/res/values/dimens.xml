@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">15sp</dimen>
+    <dimen name="imageSize_pokemon_list">100dp</dimen>
+    <dimen name="imageSize_pokemon_item">130dp</dimen>
+    <dimen name="standard_margin">10dp</dimen>
+    <dimen name="layout_marginTop">35dp</dimen>
+    <dimen name="textview_title_marginStart_pokemon_list">75dp</dimen>
+    <dimen name="textview_title_marginStart_pokemon_item">60dp</dimen>
+    <dimen name="textview_title_margin_negative">-20dp</dimen>
+    <dimen name="small_margin">5dp</dimen>
+</resources>

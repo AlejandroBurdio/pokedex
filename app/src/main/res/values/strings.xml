@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PokemonAPI</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search</string>
+
+    <string name="title_name">Name:</string>
+    <string name="title_number">Pokedex:</string>
+    <string name="title_height">Height:</string>
+    <string name="title_weight">Weight:</string>
+
+</resources>

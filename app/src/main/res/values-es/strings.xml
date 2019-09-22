@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokemonAPI</string>
+    <string name="search">Buscar</string>
+    <string name="search_hint">Buscar</string>
+
+    <string name="title_name">Nombre:</string>
+    <string name="title_number">Pokedex:</string>
+    <string name="title_height">Altura:</string>
+    <string name="title_weight">Peso:</string>
+</resources>
